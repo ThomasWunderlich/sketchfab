@@ -2,7 +2,7 @@
     "name": "tlich/sketchfab",
     "description": "SketchFab API Wrapper",
     "require": {
-        "guzzle/http": "3.8.*"
+        "guzzle/http": "3.9.*"
     },
     "license": "BSD",
     "authors": [
