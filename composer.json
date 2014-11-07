@@ -1,0 +1,14 @@
+{
+    "name": "tlich/sketchfab",
+    "description": "SketchFab API Wrapper",
+    "require": {
+        "guzzle/http": "3.8.*"
+    },
+    "license": "BSD",
+    "authors": [
+        {
+            "name": "Thomas Wunderlich",
+            "email": "twunde@gmail.com"
+        }
+    ]
+}
